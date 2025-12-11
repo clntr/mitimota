@@ -1,6 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Fraunces:opsz,wght,SOFT@9..144,600,50&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 @import "tailwindcss";
 
 @theme {
-    --font-garamond: "Cormorant Garamond", sans-serif;
+    --font-garamond: "EB Garamond", serif;
+    --font-fraunces: "Fraunces", serif;
+    --font-inter: "Inter", sans-serif;
 }
